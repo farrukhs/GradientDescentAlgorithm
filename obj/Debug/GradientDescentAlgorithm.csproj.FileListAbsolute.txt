@@ -1,0 +1,8 @@
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\bin\Debug\data.csv
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\bin\Debug\GradientDescentAlgorithm.exe.config
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\bin\Debug\GradientDescentAlgorithm.exe
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\bin\Debug\GradientDescentAlgorithm.pdb
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\obj\Debug\GradientDescentAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\obj\Debug\GradientDescentAlgorithm.exe
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\obj\Debug\GradientDescentAlgorithm.pdb
+C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\obj\Debug\GradientDescentAlgorithm.csprojResolveAssemblyReference.cache
