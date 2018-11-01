@@ -83,8 +83,8 @@ namespace GradientDescentAlgorithm
 
         static void Main(string[] args)
         {
-
-            var points = genfromtxt(@"C:\Users\Farrukh.Saeed\Documents\Visual Studio 2017\Projects\GradientDescentAlgorithm\GradientDescentAlgorithm\data.csv", ',');
+			var dataFilePath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\")) + "data.csv";
+            var points = genfromtxt(dataFilePath, ',');
             var learning_rate = 0.0001;
             var initial_b = 0.0; // initial y-intercept
             var initial_m = 0.0; //initial slope guess
